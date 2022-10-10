@@ -2,4 +2,4 @@
 population webscrabing
 
 This WEB SCRABBING  about world population
-Top country and its populations werw extracted using R
+list of  country's and its populations from top  were extracted using R programing
